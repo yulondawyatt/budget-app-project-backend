@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "A budget app where people can add, view, and manage their financial transactions. Server side - BACKEND.",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-   
   },
   "keywords": [],
   "author": "",
